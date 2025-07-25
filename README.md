@@ -5,6 +5,7 @@ SwiftUI view that asynchronously loads and displays an OpenAI image from open AP
 ### Please star the repository if you believe continuing the development of this package is worthwhile. This will help me understand which package deserves more effort.
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fopenai-async-image-swiftui%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/openai-async-image-swiftui)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fopenai-async-image-swiftui%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/swiftuiux/openai-async-image-swiftui)
 
 ## [Example for the package](https://github.com/swiftuiux/openai-async-image-swiftui-example)
 ## [Documentation(API)](https://swiftpackageindex.com/swiftuiux/openai-async-image-swiftui/main/documentation/openai_async_image_swiftui)
