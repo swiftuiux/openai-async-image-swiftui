@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftuiux/async-task.git",
       "state" : {
-        "revision" : "6c88c908c563dc5eff4a4301ba4fe787d8002375",
-        "version" : "1.2.8"
+        "branch" : "main",
+        "revision" : "fa9543e8765281c742052df9369877ddc59dc1f1"
       }
     },
     {
