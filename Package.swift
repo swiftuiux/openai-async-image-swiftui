@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/swiftuiux/async-http-client.git", from: "1.5.0"),
-        .package(url: "https://github.com/swiftuiux/async-task.git", from: "1.2.8")
+        .package(url: "https://github.com/swiftuiux/async-task.git", branch: "main")
     ],
     targets: [
         .target(
